@@ -1,0 +1,13 @@
+# Ignore parquet files and folders
+*.parquet
+**/*.parquet/*
+
+# Ignore venv folder
+.venv/
+
+# Ignore csv files
+*.csv
+
+# Ignore json files
+*.json
+data

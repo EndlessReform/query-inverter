@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Declare constants
-MODEL="llmrails/ember-v1"
+MODEL="BAAI/bge-large-en-v1.5"
 REVISION="main"
 VOLUME="$PWD/data"
 IMAGE_VERSION="0.2.2"

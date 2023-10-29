@@ -11,3 +11,6 @@
 # Ignore json files
 *.json
 data
+
+# Ignore environment files
+*.env
